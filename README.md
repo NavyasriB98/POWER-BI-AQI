@@ -1,29 +1,43 @@
 **🌬️ AQI AirPure Innovations Dashboard**
-"Advanced Air Quality Monitoring & Analytics Solution"
+**📊 End-to-End Data Analysis Project**
+This project demonstrates a complete data analysis pipeline, including data collection, cleaning, modeling, and visualization. The analysis was done using Python for data preprocessing, and Power BI for modeling, creating interactive dashboards
 
+**Domain** - consumer appliances
 AirPure Innovations is an emerging startup founded in response to India’s escalating air quality crisis—where 14 of the world’s 20 most polluted cities are located. Currently in the early stages of product development, the company is exploring market readiness and long-term demand for its flagship air purifier solution.
 
-This project presents a complete data pipeline — from raw environmental data collection to powerful, interactive Power BI dashboards. All datasets are meticulously cleaned and preprocessed using Python to ensure accuracy and performance in visualization.
+**🧰 Tools & Technologies Used**
+Python (Pandas, NumPy)
+Power BI (for data visualization and dashboards)
 
-🔄 End-to-End Data-to-Visualization Workflow
-1. 🐍 Python-Based Data Processing
-Comprehensive Cleaning: Raw environmental datasets thoroughly cleaned and standardized
+**🔍 Project Workflow**
+1. Data Collection
+Data was collected from Dataful website.
 
-Power BI Ready: Cleaned datasets formatted for seamless Power BI integration
+2. Data Cleaning (Python)
+Handled missing values, removed duplicates and unnecessary column which is not useful for analysis.
+Converted data types and formatted inconsistent entries.
+Cleaned data stored in data/cleaned/.
 
-2. 📊 Power BI Dashboards
-Professional Visualizations: High-impact charts, maps, and KPIs
+3. Data Modeling
+Performed Data modelling by giving relations to all the tables in power bi.
+created dimension tables for good accuracy.
 
-Real-Time Monitoring: Live AQI data from 23+ monitoring stations
+4. Exploratory Data Analysis (power bi)
+Generated the required reports and key performance indicators useful for the stakeholders to understand 
+Key insights derived and documented.
 
-Interactive Insights: Tooltips with detailed metric breakdowns
+5. Data Visualization (Power BI)
+Created interactive dashboards with:
+KPIs
+Trend analysis
+Filters/slicers for user exploration
 
-Multi-Page Views: Explore trends, traffic-AQI correlations, and public health impacts
+**📈 Key Insights**
+<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/fe21b536-7b5b-4ba4-a156-5bc42ab1182b" />
+<img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/44097b0b-09c9-4385-9ee8-e5fec1d4f638" />
+<img width="1342" height="753" alt="image" src="https://github.com/user-attachments/assets/cd5b7706-0425-48bd-95e1-d355abfdfe21" />
+<img width="1342" height="744" alt="image" src="https://github.com/user-attachments/assets/4612d07c-8033-4797-a38e-e2d9bc548193" />
 
-⚙️ Tech Stack
-Python: Data cleaning, transformation, and export
 
-Power BI: Visualization, real-time monitoring, dashboard development.
- 
-  
- 
+
+
