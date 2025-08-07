@@ -32,6 +32,9 @@ KPIs
 Trend analysis
 Filters/slicers for user exploration
 
+6. Data Validation
+Generated insights has been rechecked with aqi index website .
+
 **📈 Key Insights**
 <img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/fe21b536-7b5b-4ba4-a156-5bc42ab1182b" />
 <img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/44097b0b-09c9-4385-9ee8-e5fec1d4f638" />
