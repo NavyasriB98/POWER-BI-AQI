@@ -39,6 +39,14 @@ Filters/slicers for user exploration
 <img width="1342" height="744" alt="image" src="https://github.com/user-attachments/assets/4612d07c-8033-4797-a38e-e2d9bc548193" />
 
 
+**which places should air pure innovations target most?**
+  Byrnihat, Begusarai, and Delhi are among the top polluted places
+<img width="393" height="325" alt="Screenshot 2025-08-07 123943" src="https://github.com/user-attachments/assets/57228c40-cf04-41aa-83b2-2f0d19fe7d7d" />
+
+**Which pollutant should they target?**
+PM10 
+<img width="1105" height="117" alt="image" src="https://github.com/user-attachments/assets/97a3a3bb-92ed-4ccb-877f-b7f4a8753c34" />
+
 
 
 video-
